@@ -3,6 +3,24 @@ body{
     font-family: Bay Jamjuree;
 }
 
+#container{
+    display: flex;
+}
+
+.cartao{
+    margin: 1rem 1rem;
+    background-color: rgba(85, 69, 69, 0.822);
+    height: 20rem;
+    flex-grow: 1;
+}
+
+
+
+
+
+
+
+
 footer{ 
     background-color: rgba(223, 208, 5, 0.795);
     color: rgb(0, 0, 0);
